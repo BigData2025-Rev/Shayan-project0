@@ -1,0 +1,163 @@
+[
+    {
+        "exercise_type": "bench",
+        "duration": 20,
+        "calories": 150,
+        "date": "2024-12-27",
+        "user": "shayan"
+    },
+    {
+        "exercise_type": "leg",
+        "duration": 25,
+        "calories": 120,
+        "date": "2024-12-24",
+        "user": "shayan"
+    },
+    {
+        "exercise_type": "bench",
+        "duration": 30,
+        "calories": 180,
+        "date": "2024-12-28",
+        "user": "shayan"
+    },
+    {
+        "exercise_type": "leg",
+        "duration": 30,
+        "calories": 140,
+        "date": "2024-12-29",
+        "user": "shayan"
+    },
+    {
+        "exercise_type": "running",
+        "duration": 30,
+        "calories": 300,
+        "date": "2024-12-25",
+        "user": "john"
+    },
+    {
+        "exercise_type": "cycling",
+        "duration": 45,
+        "calories": 400,
+        "date": "2024-12-26",
+        "user": "john"
+    },
+    {
+        "exercise_type": "running",
+        "duration": 25,
+        "calories": 250,
+        "date": "2024-12-27",
+        "user": "john"
+    },
+    {
+        "exercise_type": "cycling",
+        "duration": 50,
+        "calories": 420,
+        "date": "2024-12-28",
+        "user": "john"
+    },
+    {
+        "exercise_type": "swimming",
+        "duration": 60,
+        "calories": 500,
+        "date": "2024-12-27",
+        "user": "jane"
+    },
+    {
+        "exercise_type": "yoga",
+        "duration": 40,
+        "calories": 200,
+        "date": "2024-12-23",
+        "user": "jane"
+    },
+    {
+        "exercise_type": "swimming",
+        "duration": 55,
+        "calories": 480,
+        "date": "2024-12-29",
+        "user": "jane"
+    },
+    {
+        "exercise_type": "rowing",
+        "duration": 25,
+        "calories": 250,
+        "date": "2024-12-26",
+        "user": "mark"
+    },
+    {
+        "exercise_type": "rowing",
+        "duration": 30,
+        "calories": 280,
+        "date": "2024-12-27",
+        "user": "mark"
+    },
+    {
+        "exercise_type": "push-ups",
+        "duration": 15,
+        "calories": 100,
+        "date": "2024-12-22",
+        "user": "mark"
+    },
+    {
+        "exercise_type": "push-ups",
+        "duration": 20,
+        "calories": 130,
+        "date": "2024-12-23",
+        "user": "mark"
+    },
+    {
+        "exercise_type": "pull-ups",
+        "duration": 10,
+        "calories": 80,
+        "date": "2024-12-21",
+        "user": "emma"
+    },
+    {
+        "exercise_type": "pull-ups",
+        "duration": 12,
+        "calories": 90,
+        "date": "2024-12-25",
+        "user": "emma"
+    },
+    {
+        "exercise_type": "squats",
+        "duration": 20,
+        "calories": 150,
+        "date": "2024-12-24",
+        "user": "emma"
+    },
+    {
+        "exercise_type": "squats",
+        "duration": 30,
+        "calories": 200,
+        "date": "2024-12-27",
+        "user": "emma"
+    },
+    {
+        "exercise_type": "walking",
+        "duration": 60,
+        "calories": 180,
+        "date": "2024-12-25",
+        "user": "alex"
+    },
+    {
+        "exercise_type": "walking",
+        "duration": 50,
+        "calories": 150,
+        "date": "2024-12-26",
+        "user": "alex"
+    },
+    {
+        "exercise_type": "boxing",
+        "duration": 30,
+        "calories": 350,
+        "date": "2024-12-27",
+        "user": "alex"
+    },
+    {
+        "exercise_type": "boxing",
+        "duration": 40,
+        "calories": 450,
+        "date": "2024-12-28",
+        "user": "alex"
+    }
+]
